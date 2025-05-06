@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**Noctenz/Noctenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1> Welcome to My Github!</h1>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+</div>
 
-Here are some ideas to get you started:
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=0xLunatic&color=blue"/></p>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻Status
+![0xLunatic's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xLunatic&show_icons=true&theme=onedark)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xLunatic&layout=compact)](https://github.com/0xLunatic/github-readme-stats)
+
+<img height="150px" src="https://github-profile-trophy.vercel.app/?username=0xLunatic&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
+
